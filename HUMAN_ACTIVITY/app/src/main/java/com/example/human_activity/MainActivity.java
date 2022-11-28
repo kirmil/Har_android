@@ -69,6 +69,7 @@ public class MainActivity extends AppCompatActivity {
     Button turnonbtbutton,view1,view2;
     ListView list;
     ListView lista2;
+    ListView lista3;
     String model ="HC-06";
     ArrayList devlist = new ArrayList();
     ArrayList devlistMac = new ArrayList();
